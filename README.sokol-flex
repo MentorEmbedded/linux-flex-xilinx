@@ -1,0 +1,8 @@
+This file identifies the origin of this branch for the vendor kernel port to
+Sokol Flex OS. This kernel was fetched from
+
+repo: https://github.com/Xilinx/linux-xlnx.git
+branch: xlnx_rebase_v6.1_LTS
+hash: a19da02cf5b44420ec6afb1eef348c21d9e8cda2
+
+The kernel version at the time of this fork was: 6.1.30
